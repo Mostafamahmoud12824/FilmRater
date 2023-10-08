@@ -1,0 +1,32 @@
+nav {
+  background-color: #032541;
+}
+
+nav button {
+  margin-top: -5px;
+  background-color: inherit;
+  border: 0;
+}
+
+nav .search {
+  left: 82%;
+}
+
+nav .search button {
+  -webkit-transition: 3s !important;
+  transition: 3s !important;
+}
+
+nav .search input {
+  -webkit-transition: 3s !important;
+  transition: 3s !important;
+}
+
+nav .search:hover input {
+  display: inline !important;
+}
+
+.container {
+  width: 1340px;
+}
+/*# sourceMappingURL=Navbar.module.css.map */

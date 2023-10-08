@@ -1,0 +1,17 @@
+.container {
+  width: 1340px;
+}
+
+.card2 {
+  width: 180px !important;
+}
+
+.rounded3 {
+  border-radius: 15px !important;
+}
+
+.vote {
+  left: 10px;
+  top: 250px;
+}
+/*# sourceMappingURL=ShowData.module.css.map */
